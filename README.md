@@ -6,12 +6,4 @@ This dataset is sourced from the U.S. Geological Survey (USGS), an organization 
 
 As part of its initiatives, the USGS monitors and reports on earthquakes, assesses their impacts and hazards, and conducts targeted research on earthquake causes and effects. The USGS offers real-time notifications, feeds, and web services about earthquakes shortly after they occur. For additional details, you can refer to the [USGS Earthquake Feed](https://earthquake.usgs.gov/earthquakes/feed/).
 
-## Usage
-
-You can access the dataset on Kaggle. It contains details of earthquakes, including time, location, magnitude, depth, and other relevant parameters.
-
-[Link to the Dataset on Kaggle](#) <!-- Replace with the actual Kaggle dataset link -->
-
-Feel free to explore and analyze the earthquake data for various insights.
-
 ## Assignment
