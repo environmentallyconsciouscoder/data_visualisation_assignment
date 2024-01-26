@@ -16,8 +16,6 @@ The project's objective is to produce at least one of the following types of vis
 4. **Line Chart**
 5. **Scatter Plot**
 
-Various visualizations will be generated to highlight the diverse capabilities of Matplotlib, each providing insights into different aspects of the earthquake dataset.
-
 ## Data Analysis and Conclusions
 
 Following the creation of visualizations, an in-depth analysis of the dataset will be conducted. The goal is to identify patterns, correlations, or any noteworthy insights within the earthquake data.
