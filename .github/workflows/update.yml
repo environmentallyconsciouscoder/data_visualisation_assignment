@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: neo4j
     steps:
       - name: Checkout code
         uses: actions/checkout@v4 # Update to use Node.js 20
